@@ -18,11 +18,7 @@ function LegalDocs() {
       <div className="legal-text-content">
         <p className="legal-title">General Info</p>
         <p className="legal-description">
-          Welcome to Health Plus, your trusted online healthcare platform. Our
-          mission is to provide accessible and personalized healthcare services
-          to individuals seeking expert medical advice and treatment. By using
-          our platform, you agree to the terms outlined in our Privacy Policy
-          and Terms of Service.
+          
         </p>
 
         <p className="legal-title">Privacy Policy</p>
@@ -43,21 +39,12 @@ function LegalDocs() {
 
         <p className="legal-title">Consultations</p>
         <p className="legal-description">
-          Our platform connects you with expert doctors who provide online
-          consultations. These consultations are not a replacement for in-person
-          medical visits but serve as a convenient option for medical advice,
-          prescriptions, and guidance. It's crucial to provide accurate and
-          complete information to receive the best possible care.
+        Welcome to TechFusys, your trusted partner for exceptional digital solutions. Our expert team offers customized web development, app development, and technical support services, prioritizing your business's success. Join us on this journey towards a stronger and more efficient digital presence.
         </p>
 
         <p className="legal-title">How it Works</p>
         <p className="legal-description">
-          Health Plus is designed to simplify healthcare access. You can choose
-          a specialist, schedule an appointment, and engage in a virtual
-          consultation. Our specialists offer personalized advice and treatment
-          plans tailored to your needs. Please remember that emergencies require
-          immediate medical attention and should be directed to your local
-          medical facility.
+        Welcome to TechFusys, your trusted partner for exceptional digital solutions. Our expert team offers customized web development, app development, and technical support services, prioritizing your business's success. Join us on this journey towards a stronger and more efficient digital presence.
         </p>
       </div>
 

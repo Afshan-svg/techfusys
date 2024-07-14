@@ -13,9 +13,7 @@ function Footer() {
               TechFusys <span className="ft-sign"></span>
             </p>
             <p className="ft-description">
-              Talk to online doctors and get medical advice, online
-              prescriptions, refills and medical notes within minutes. On-demand
-              healthcare services at your fingertips.
+            With our innovative app development services, your startup can revolutionize how businesses connect with their customers. Empower users to access essential services, receive real-time updates, and manage their needs within minutes. 
             </p>
           </div>
 

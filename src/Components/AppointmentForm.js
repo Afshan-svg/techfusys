@@ -84,7 +84,7 @@ function AppointmentForm() {
 
         <form className="form-content" onSubmit={handleSubmit}>
           <label>
-            Patient Full Name:
+             Full Name:
             <input
               type="text"
               value={patientName}
@@ -96,7 +96,7 @@ function AppointmentForm() {
 
           <br />
           <label>
-            Patient Phone Number:
+             Phone Number:
             <input
               type="text"
               value={patientNumber}
@@ -108,7 +108,7 @@ function AppointmentForm() {
 
           <br />
           <label>
-            Patient Gender:
+             Gender:
             <select
               value={patientGender}
               onChange={(e) => setPatientGender(e.target.value)}
@@ -117,7 +117,7 @@ function AppointmentForm() {
               <option value="default">Select</option>
               <option value="male">Male</option>
               <option value="female">Female</option>
-              <option value="private">I will inform Doctor only</option>
+              <option value="private">Prefer Not to Say</option>
             </select>
             {formErrors.patientGender && <p className="error-message">{formErrors.patientGender}</p>}
           </label>
